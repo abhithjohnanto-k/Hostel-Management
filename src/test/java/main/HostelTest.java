@@ -69,4 +69,6 @@ public class HostelTest {
 				assertEquals("test1","xw");
 			}
 	}
+	
+	
 }
